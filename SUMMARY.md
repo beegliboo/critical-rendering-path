@@ -1,3 +1,6 @@
 # Table of contents
 
-* [readme](README.md)
+* [Critical Rendering Path](README.md)
+* [HTML Semantics:](html-semantics.md)
+* [The Data Structure Truth Frontend Devs Ignore](the-data-structure-truth-frontend-devs-ignore.md)
+* [Web APIs in Frontend Development](web-apis-in-frontend-development.md)

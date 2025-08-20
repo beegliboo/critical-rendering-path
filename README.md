@@ -1,8 +1,4 @@
-# Critical Rendering Path
-
-## Critical Rendering Path - Ultimate Deep Dive
-
-Here's an improved version:
+# Critical Rendering Path - Ultimate Deep Dive
 
 Before diving into this blog, I want you to adopt the right mindset: what you feed to an algorithm is far more critical than its implementation details. To truly extract maximum value and achieve smooth, optimal results, your primary focus should be on understanding what data and inputs you should feed to the algorithm versus what you should avoid or filter out. The quality and relevance of your input data will determine your success more than any sophisticated coding techniques or complex algorithmic implementations.
 

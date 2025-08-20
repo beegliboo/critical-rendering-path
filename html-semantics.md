@@ -1,7 +1,5 @@
 # HTML Semantics:
 
-HTML Semantics: The Complete Master Guide
-
 #### Table of Contents <a href="#pdf-page-8exucbr4qwlvgx57eq2x-table-of-contents" id="pdf-page-8exucbr4qwlvgx57eq2x-table-of-contents"></a>
 
 1. [Foundation: What Are Semantics?](https://claude.ai/chat/cfe37372-0758-4e38-aed8-c34e1d46a94d#foundation)

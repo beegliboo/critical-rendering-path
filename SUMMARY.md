@@ -12,3 +12,4 @@
 * [WTF is Hydration React](wtf-is-hydration-react.md)
 * [Next Js Routing](next-js-routing.md)
 * [The whole picture of Hydration](the-whole-picture-of-hydration.md)
+* [QnA](qna.md)

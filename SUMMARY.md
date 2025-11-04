@@ -13,3 +13,6 @@
 * [Next Js Routing](next-js-routing.md)
 * [The whole picture of Hydration](the-whole-picture-of-hydration.md)
 * [QnA](qna.md)
+* [🎯 TOPIC 2: React Router v6 Core Concepts](topic-2-react-router-v6-core-concepts.md)
+* [🏗️ DEEP into React Router Architecture](deep-into-react-router-architecture.md)
+* [🎯 TOPIC 3: Dynamic Routing & URL Parameters](topic-3-dynamic-routing-and-url-parameters.md)

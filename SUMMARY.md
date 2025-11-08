@@ -16,3 +16,4 @@
 * [🎯 TOPIC 2: React Router v6 Core Concepts](topic-2-react-router-v6-core-concepts.md)
 * [🏗️ DEEP into React Router Architecture](deep-into-react-router-architecture.md)
 * [🎯 TOPIC 3: Dynamic Routing & URL Parameters](topic-3-dynamic-routing-and-url-parameters.md)
+* [Software Architect](software-architect.md)

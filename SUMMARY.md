@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Critical Rendering Path - Ultimate Deep Dive](README.md)
+* [Software Architect](README.md)
+* [OOP](oop.md)
+* [Critical Rendering Path - Ultimate Deep Dive](<README (1).md>)
 * [The Data Structure Truth Frontend Devs Ignore](the-data-structure-truth-frontend-devs-ignore.md)
 * [HTML Semantics:](html-semantics.md)
 * [Web APIs in Frontend Development](web-apis-in-frontend-development.md)
@@ -16,4 +18,8 @@
 * [🎯 TOPIC 2: React Router v6 Core Concepts](topic-2-react-router-v6-core-concepts.md)
 * [🏗️ DEEP into React Router Architecture](deep-into-react-router-architecture.md)
 * [🎯 TOPIC 3: Dynamic Routing & URL Parameters](topic-3-dynamic-routing-and-url-parameters.md)
-* [Software Architect](software-architect.md)
+
+## React Architicture
+
+* [Our Learning Journey Structure](react-architicture/our-learning-journey-structure.md)
+* [Trees](react-architicture/trees.md)

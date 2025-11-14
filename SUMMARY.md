@@ -5,7 +5,7 @@
 ## OOP
 
 * [Object oriented programming](oop/object-oriented-programming.md)
-* [Question](oop/question.md)
+* [Question Smart Patterns](oop/question-smart-patterns.md)
 
 ***
 
